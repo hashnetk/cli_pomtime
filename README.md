@@ -29,3 +29,6 @@ _Current version is for **Windows users with Python installed** and may not work
 &nbsp;
 
  Thank you for your support 🤍
+
+
+# WIP +ui +exe +sfx +animations 10/27/2025
