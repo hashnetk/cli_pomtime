@@ -31,4 +31,4 @@ _Current version is for **Windows users with Python installed** and may not work
  Thank you for your support 🤍
 
 
-# WIP +ui +exe +sfx +animations 10/27/2025
+#### WIP +ui +exe +sfx +animations 10/27/2025
